@@ -16,6 +16,7 @@ Pull requests happily accepted.
 ## Color Schemes
 
 * [solarized](http://ethanschoonover.com/solarized) - cross editor
+* [argonaut](https://github.com/pwaleczek/Argonaut-theme) - cross editor, [vim](https://github.com/effkay/argonaut.vim)
 
 ## Collections
 
