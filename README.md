@@ -15,14 +15,21 @@ Pull requests happily accepted.
 
 ## Color Schemes
 
+
+
+## Cross Editor
+
 * [solarized](http://ethanschoonover.com/solarized) - cross editor
 * [argonaut](https://github.com/pwaleczek/Argonaut-theme) - cross editor, [vim](https://github.com/effkay/argonaut.vim)
-
-## Collections
-
 * [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - cross editor
 * [chriskempson/base16](https://github.com/chriskempson/base16) - cross editor
+* [Dracula](http://zenorocha.github.io/dracula-theme) - Dracula theme, note: this is not Intellij's Darcula (not the spelling). cross editor.
 * [vim-colorschemes](https://github.com/flazz/vim-colorschemes) - vim
 * [iTerm2](https://github.com/mbadolato/iTerm2-Color-Schemes/) - iTerm2
+
+
+## Vim
+
+* [One Dark](https://github.com/gosukiwi/vim-atom-dark) - Atom's One Dark scheme for vim. [More accurate variant](https://github.com/geoffharcourt/one-dark.vim). However both are inaccurate, YMMV.
 
 
